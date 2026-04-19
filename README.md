@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0118-pascals-triangle) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2463-minimum-total-distance-traveled](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Dynamic Programming
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3783-mirror-distance-of-an-integer](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3783-mirror-distance-of-an-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+## Binary Search
+|  |
+| ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 <!---LeetCode Topics End-->
