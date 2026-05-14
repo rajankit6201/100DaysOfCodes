@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2615-sum-of-distances) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2784-check-if-array-is-good) |
 | [3225-maximum-score-from-grid-operations](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3225-maximum-score-from-grid-operations) |
 | [3660-jump-game-ix](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3660-jump-game-ix) |
 ## Dynamic Programming
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2463-minimum-total-distance-traveled) |
+| [2784-check-if-array-is-good](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2784-check-if-array-is-good) |
 ## String
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2615-sum-of-distances](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2615-sum-of-distances) |
+| [2784-check-if-array-is-good](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2784-check-if-array-is-good) |
 ## Prefix Sum
 |  |
 | ------- |
