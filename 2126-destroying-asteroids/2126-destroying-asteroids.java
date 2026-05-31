@@ -1,13 +1,11 @@
 class Solution {
     public boolean asteroidsDestroyed(int mass, int[] asteroids) {
-        long finalMask  = mass;
+        long finalMask = mass;
         Arrays.sort(asteroids);
-        for(int i = 0;i<asteroids.length;i++){
-            if(finalMask >= asteroids[i]){
-                finalMask+= asteroids[i];
-                System.out.println(finalMask);
-            }else
-            return false;
+        for (int i = 0; i < asteroids.length; i++) {
+            if (finalMask < asteroids[i])
+                return false;
+            finalMask += asteroids[i];
         }
         return true;
 
