@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2463-minimum-total-distance-traveled](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2540-minimum-common-value) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1345-jump-game-iv](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1345-jump-game-iv) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2784-check-if-array-is-good) |
@@ -161,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
