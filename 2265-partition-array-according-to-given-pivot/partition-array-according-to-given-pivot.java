@@ -1,32 +1,27 @@
 class Solution {
     public int[] pivotArray(int[] nums, int pivot) {
-        ArrayList<Integer> li = new ArrayList<>();
-        for(int ele : nums){
-            if(ele < pivot){
-                li.add(ele);
-            }
-        }
+    int n = nums.length;
+    int[] result = new int[n];
 
-        for(int ele : nums){
-            if(ele == pivot){
-                li.add(ele);
-            }
-        }
+    int leftCount = 0;
+    for (int x : nums)
+        if (x < pivot) leftCount++;
 
-        for(int ele : nums){
-            if(ele > pivot){
-                li.add(ele);
-            }
-        }
-        int n = li.size();
-        int[] ans = new int[n];
-        int i = 0;
-        for(int ele : li){
-            ans[i] = ele;
-            i++;
-        }
-        return ans;
+    int equalCount = 0;
+    for (int x : nums)
+        if (x == pivot) equalCount++;
+
+    int left = 0;
+    int right = leftCount + equalCount;
+
+    for (int x : nums) {
+        if (x < pivot)       result[left++] = x;
+        else if (x == pivot) result[leftCount++] = x;
+        else                 result[right++] = x;
     }
+
+    return result;
+}
 }
 
 // Synced seamlessly with LeetHub Pro
