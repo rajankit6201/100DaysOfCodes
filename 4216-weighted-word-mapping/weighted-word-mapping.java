@@ -1,29 +1,15 @@
 class Solution {
     public String mapWordWeights(String[] words, int[] weights) {
-        int wordCount = 0;
-        String ans = "";
-        char digit = 'z';
-        char[] alpha = new char[26];
-
-        // easy to access value 
-        for(int i =0;i<26;i++){
-            alpha[i] = digit;
-            digit--;
-        }
-        
-        int n = words.length;
-        for(int i = 0;i<n;i++){
-            String temp = words[i];
-             for(int j = 0;j<temp.length();j++){
-                int idx = (int)(temp.charAt(j) - 'a');
-                wordCount+= weights[idx];
+        StringBuilder ans = new StringBuilder();
+        for(String s : words){
+            int sum = 0;
+            for(int i=0; i<s.length(); i++){
+                sum += weights[s.charAt(i) - 'a'];
             }
-            wordCount = wordCount%26;
-            ans = ans+ alpha[wordCount];
-            wordCount =0;
+            int c = 25 - (sum % 26);
+            ans.append((char) ('a' + c));
         }
-        return ans;
-
+        return ans.toString();
     }
 }
 
