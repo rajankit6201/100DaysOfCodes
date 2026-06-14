@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2540-minimum-common-value) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0061-rotate-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2196-create-binary-tree-from-descriptions) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
