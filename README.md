@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1914-cyclically-rotating-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2553-separate-the-digits-in-an-array) |
+| [3614-process-string-with-special-operations-ii](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
