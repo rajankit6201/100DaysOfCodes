@@ -4,16 +4,13 @@ class Solution {
         int[] ans = new int[n+1];
         ans[0] = 0;
         int idx = 1;
+        int max = 0;
         for(int ele : gain){
             ans[idx] = ele + ans[idx-1];
+            max = Math.max(max , ans[idx]);
             idx++;
         }
-        for(int x : ans){
-            System.out.print(x + " ");
-        }
-        Arrays.sort(ans);
-        int max = ans[n];
-        if(max < 0) return 0;
+
         return max;
     }
 }
