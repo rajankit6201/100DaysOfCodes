@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1732-find-the-highest-altitude](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3225-maximum-score-from-grid-operations) |
