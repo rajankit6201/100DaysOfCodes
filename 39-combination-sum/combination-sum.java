@@ -38,6 +38,7 @@ class Solution {
     ArrayList<Integer> list = new ArrayList<>();
     public void backtrack(int[] arr , int idx , int target  , int n){
         if(target == 0 ){
+            if(!root.contains(list))
             root.add(new ArrayList<>(list));
             return;
         }
