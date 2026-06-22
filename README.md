@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1189-maximum-number-of-balloons) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1345-jump-game-iv) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2540-minimum-common-value) |
@@ -198,5 +200,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
