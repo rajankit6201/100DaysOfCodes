@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3161-block-placement-queries) |
 | [3225-maximum-score-from-grid-operations](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3225-maximum-score-from-grid-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3620-network-recovery-pathways](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3660-jump-game-ix) |
 | [3838-weighted-word-mapping](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3838-weighted-word-mapping) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3225-maximum-score-from-grid-operations) |
+| [3620-network-recovery-pathways](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3660-jump-game-ix) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sorting
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2540-minimum-common-value) |
 | [3161-block-placement-queries](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3161-block-placement-queries) |
+| [3620-network-recovery-pathways](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
 |  |
@@ -213,4 +216,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Graph Theory
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3620-network-recovery-pathways) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
