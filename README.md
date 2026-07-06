@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1345-jump-game-iv) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1340-jump-game-v) |
 | [1833-maximum-ice-cream-bars](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1833-maximum-ice-cream-bars) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
