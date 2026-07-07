@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0757-set-intersection-size-at-least-two](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0757-set-intersection-size-at-least-two) |
 | [1288-remove-covered-intervals](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1340-jump-game-v) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0757-set-intersection-size-at-least-two](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0757-set-intersection-size-at-least-two) |
 | [1288-remove-covered-intervals](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1340-jump-game-v) |
 | [1833-maximum-ice-cream-bars](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1833-maximum-ice-cream-bars) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0757-set-intersection-size-at-least-two](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0757-set-intersection-size-at-least-two) |
 | [1833-maximum-ice-cream-bars](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2126-destroying-asteroids) |
