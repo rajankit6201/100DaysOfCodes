@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0757-set-intersection-size-at-least-two](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0757-set-intersection-size-at-least-two) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1861-rotating-the-box) |
