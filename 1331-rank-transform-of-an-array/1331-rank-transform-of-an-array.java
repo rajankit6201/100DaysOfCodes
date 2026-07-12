@@ -12,8 +12,7 @@ class Solution {
         HashMap<Integer , Integer> map =new HashMap<>();
         for(int i = 0;i<n;i++){
             if(!map.containsKey(arr[i])){
-                map.put(arr[i] , rank);
-                rank++;
+                map.put(arr[i] , rank++);
             }
         }
         int i = 0;
