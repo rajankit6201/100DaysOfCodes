@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3161-block-placement-queries) |
 | [3225-maximum-score-from-grid-operations](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3225-maximum-score-from-grid-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3225-maximum-score-from-grid-operations) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3660-jump-game-ix) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -257,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3620-network-recovery-pathways) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
