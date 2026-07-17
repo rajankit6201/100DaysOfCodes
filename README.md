@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2463-minimum-total-distance-traveled](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2540-minimum-common-value](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2574-left-and-right-sum-differences) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2540-minimum-common-value](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2540-minimum-common-value) |
 | [3161-block-placement-queries](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3161-block-placement-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Hash Table
 |  |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1732-find-the-highest-altitude) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2574-left-and-right-sum-differences](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3225-maximum-score-from-grid-operations) |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Graph Theory
 |  |
 | ------- |
@@ -272,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Queue
+|  |
+| ------- |
+| [2528-maximize-the-minimum-powered-city](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2528-maximize-the-minimum-powered-city) |
 <!---LeetCode Topics End-->
