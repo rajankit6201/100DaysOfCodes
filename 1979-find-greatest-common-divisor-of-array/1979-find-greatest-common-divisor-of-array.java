@@ -1,15 +1,23 @@
 class Solution {
     public int findGCD(int[] nums) {
-        int min=100000;
-        int max=-1;
+       
+        int low=100000;
+        int high=-1;
         for(int i : nums){
-            min=Math.min(min,i);
-            max=Math.max(max,i);
+            low=Math.min(low,i);
+            high=Math.max(high,i);
         }
-        int gcd=1;
-        for(int i=2;i<=min;i++){
-            if(min%i==0 && max%i==0)gcd=i;
+
+        while(low != 0){
+            int temp = low;
+            low = high%low;
+            high = temp;
         }
-        return gcd;
+        return high;
+
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
