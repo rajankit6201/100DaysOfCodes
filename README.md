@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0757-set-intersection-size-at-least-two](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0757-set-intersection-size-at-least-two) |
+| [1260-shift-2d-grid](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1331-rank-transform-of-an-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1861-rotating-the-box](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1914-cyclically-rotating-a-grid) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1914-cyclically-rotating-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2553-separate-the-digits-in-an-array) |
