@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0757-set-intersection-size-at-least-two](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0757-set-intersection-size-at-least-two) |
 | [1260-shift-2d-grid](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1288-remove-covered-intervals) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0757-set-intersection-size-at-least-two](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0757-set-intersection-size-at-least-two) |
 | [1288-remove-covered-intervals](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1331-rank-transform-of-an-array) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0788-rotated-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
