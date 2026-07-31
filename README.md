@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2463-minimum-total-distance-traveled](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2463-minimum-total-distance-traveled) |
 | [2784-check-if-array-is-good](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2784-check-if-array-is-good) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3536-maximum-product-of-two-digits) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Hash Table
 |  |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2784-check-if-array-is-good) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1833-maximum-ice-cream-bars) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
