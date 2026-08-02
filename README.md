@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0757-set-intersection-size-at-least-two](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0757-set-intersection-size-at-least-two) |
+| [0877-stone-game](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1306-jump-game-iii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0118-pascals-triangle) |
 | [0788-rotated-digits](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0877-stone-game) |
 | [1340-jump-game-v](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1340-jump-game-v) |
 | [2463-minimum-total-distance-traveled](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -319,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajankit6201/100DaysOfCodes/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
