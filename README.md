@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1833-maximum-ice-cream-bars) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1539-kth-missing-positive-number](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1539-kth-missing-positive-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2540-minimum-common-value](https://github.com/rajankit6201/100DaysOfCodes/tree/master/2540-minimum-common-value) |
