@@ -1,10 +1,19 @@
 class Solution {
     public int findMin(int[] nums) {
-        Arrays.sort(nums);
-        return nums[0];
+        int low = 0;
+        int n = nums.length;
+        int high = n-1;
+        while(low<high){
+            int mid = (low+high)/2;
+           if(nums[mid] > nums[high]){
+            low = mid+1;
+           }
+           else high = mid;
+        }
+        return nums[low];
     }
 }
 
 // Synced seamlessly with LeetHub Pro
 // Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
-// Get it here: https://chromewebstore.google.com/detail/leethub-v4/bcilpkkbokcopmabingnndookdogmbna
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
