@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rajankit6201/100DaysOfCodes/tree/master/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/rajankit6201/100DaysOfCodes/tree/master/1345-jump-game-iv) |
