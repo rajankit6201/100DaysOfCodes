@@ -6,9 +6,7 @@ class Solution {
         if(left<0) left = 0;
         int right = helper(root.right);
         if(right<0) right =0;
-        int sum = left+right;
-        if(sum<0) sum = 0;
-        maximum = Math.max(maximum , (sum+root.val));
+        maximum = Math.max(maximum , (left+right+root.val));
         return root.val + Math.max(left, right);
     }
 
