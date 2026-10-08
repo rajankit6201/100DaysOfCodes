@@ -14,19 +14,10 @@
  * }
  */
 class Solution {
-    int sum =0;
-    public boolean hlepher(TreeNode root){
-        if(root == null) return true;
-        if(root.left == null && root.right == null) sum+=root.val;
-        boolean left =   hlepher(root.left);
-        boolean right =  hlepher(root.right);
-        return left && right;
-    }
     public boolean checkTree(TreeNode root) {
-        hlepher(root);
-        if(root.val == sum) return true;
+        int val = (root.left.val + root.right.val);
+        if(val == root.val) return true;
         return false;
-        
     }
 }
 
